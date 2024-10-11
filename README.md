@@ -4,5 +4,17 @@
 
 **This paper has been published in Expert Systems with Applications**
 
-This repository has been deprecated, the latest repository can be found at [here](https://github.com/PixelSegTech/MMFA)
 
+# Citation
+ If you find this project useful, please consider citing:
+
+```bibtex
+ @article{yin2023semi,
+  title={Semi-supervised semantic segmentation with multi-reliability and multi-level feature augmentation},
+  author={Yin, Jianjian and Zheng, Zhichao and Pan, Yulu and Gu, Yanhui and Chen, Yi},
+  journal={Expert Systems with Applications},
+  volume={233},
+  pages={120973},
+  year={2023},
+  publisher={Elsevier}
+}
